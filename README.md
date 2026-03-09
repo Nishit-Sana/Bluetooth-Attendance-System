@@ -1,4 +1,4 @@
 **Bluetooth Attendance System**
 
-Overview
+
 This project implements a Bluetooth-based attendance system using Arduino. Students send their roll number via Bluetooth, and the system checks it against a database stored on an SD card. If the roll number is valid, the system marks attendance and displays the student's name on an LCD.
