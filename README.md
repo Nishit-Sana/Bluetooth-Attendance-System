@@ -5,12 +5,9 @@ This project implements a Bluetooth-based attendance system using Arduino. Stude
 
 Hardware Used
 
-Arduino (Uno/Nano)
+*Arduino Uno
+*HC-05 Bluetooth Module
+*16×2 LCD Display
+*SD Card Module
 
-HC-05 Bluetooth Module
 
-16×2 LCD Display
-
-SD Card Module
-
-Micro SD Card
